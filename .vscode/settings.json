@@ -1,0 +1,17 @@
+{
+  "eslint.enable": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnType": true,
+  "files.eol": "\n",
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  },
+  "[typescriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "typescript.format.enable": false,
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+   }
+}
