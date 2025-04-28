@@ -26,7 +26,7 @@ export default async function handler(req: Request, res: Response) {
 
   // Ask OpenAI for a streaming chat completion given the prompt
   const response = await openai.chat.completions.create({
-    model: 'gpt-4-0125-preview',
+    model: 'openai/o4-mini',
     stream: true,
     messages: [
       {
