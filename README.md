@@ -1,1 +1,1 @@
-Try: https://practice-89f.pages.dev/
+Try: https://words-flip.vercel.app/
